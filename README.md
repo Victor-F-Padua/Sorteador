@@ -1,4 +1,6 @@
-# 🎲 Giveaway Number Drawer
+<div align="center" ><img src="./assets/draw-lucky.gif" width="400px" /></div>
+
+# <p align="center" >🎲 Giveaway Number Drawer</p>
 
 A simple and interactive web app that generates a random number between a chosen range. Perfect for giveaways, raffles, and draws.
 
