@@ -29,7 +29,7 @@ A simple and interactive web app that generates a random number between a chosen
 
 ## 🌐 Live Demo
 
-👉 https://victor-f-padua.github.io/Sorteador/
+👉 https://victor-f-padua.github.io/Drawer/
 
 ## 📚 What I Learned
 
